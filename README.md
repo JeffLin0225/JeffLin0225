@@ -86,23 +86,17 @@
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
 </div>
 
-<h2 align="left">DevOps & CI/CD</h2>
+<h2 align="left">DevOps & CI/CD & 工具 Tools</h2>
 <div align="left">AzureDevOps
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
   <img width="18" />Gitlab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="18" />Jenkins
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-</div>
-
-<h2 align="left">工具 Tools</h2>
-<div align="left">VSCode
+  <img width="18" />|| <img width="18" /> (Tools) : VSCode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="18" />VisualStudio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="18" />Intellij
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="18" />
 </div>
-
-
