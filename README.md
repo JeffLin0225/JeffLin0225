@@ -9,8 +9,6 @@
 <br>
 📚  興趣： 
     嘗試不同領域技術 ( 前後端, DevOps , 容器化技術 , AI領域相關 ) 
-<img width=”100%” src=”https://github-readme-stats.vercel.app/api/top-langs/?username=JeffLin0225&theme=vue-dark&line_height=22&layout=compact&hide=less" />
-    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffLin0225&bg_color=22111a&color=f0e0ef&line=9bb4ee&point=72eb0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h2 align="left">前端技術 Frontend Technologies</h2>
 <div align="left">JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
