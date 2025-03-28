@@ -9,6 +9,33 @@
 <br>
 📚  興趣： 
     嘗試不同領域技術 ( 前後端, DevOps , 容器化技術 , AI領域相關 ) 
+
+<table>
+  <tr>
+      <td style="border: 1px solid black;">主題</td>
+      <td style="border: 1px solid black;">連結</td>
+      <td style="border: 1px solid black;">說明</td>
+  </tr>
+  <tr>
+      <td style="border: 1px solid black;">JXWebs 部落格</td>
+      <td style="border: 1px solid black;">
+          前端：<a href="https://github.com/JeffLin0225/JXWebs-Frontend">JXWebs-Frontend</a> 
+          <br>
+          後端：<a href="https://github.com/JeffLin0225/JXWebs-Backend">JXWebs-Backend</a> 
+      </td>
+      <td style="border: 1px solid black;">React <br> Spring Webflux併發操作 , Spring Cloud流量控管 , Spring Security權限控管 <br> Redis提升性能 , PostgreSQL關聯式</td>
+  </tr>
+  <tr>
+      <td style="border: 1px solid black;">AI_聊天機器人 (JAXI)</td>
+      <td style="border: 1px solid black;">
+          前端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Frontend">JAXI_ChatBot_Frontend</a> 
+          <br>
+          後端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend">JAXI_ChatBot_Backend</a> 
+      </td>
+      <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br> OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
+  </tr>
+</table>
+    
 <h2 align="left">前端技術 Frontend Technologies</h2>
 <div align="left">JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
