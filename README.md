@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, 我是 林家賢</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- 🔭 I’m currently working on [coma;dsa](projectlinkk)
+
+- 🌱 I’m currently learning **AI**
+
+- 📝 I regularly write articles on [blogLoin](blogLoin)
+
+- 📫 How to reach me **f900225@gmail**
+
+- 📄 Know about my experiences [blogLoin](blogLoin)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
