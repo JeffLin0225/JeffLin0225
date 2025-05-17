@@ -60,7 +60,7 @@
           <br>
           加/解密工具：<a href="https://github.com/JeffLin0225/EnDeCoder/blob/main/main.py">EnDeCoder</a>
       </td>
-      <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br> OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
+      <td style="border: 1px solid black;">React <br> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
   </tr>
 </table>
     
