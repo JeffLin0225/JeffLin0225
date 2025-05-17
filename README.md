@@ -50,7 +50,7 @@
       <td style="border: 1px solid black;">
           RedisDemo：<a href="https://github.com/JeffLin0225/redisdemo">redisdemo</a> 
           <br>
-          KafkaService：<a href="https://github.com/JeffLin0225/KafkaService">KafkaService</a> <a href="https://github.com/JeffLin0225/KafkaTopicsService">KafkaTopicsService</a>
+          KafkaService:<a href="https://github.com/JeffLin0225/KafkaService">KafkaService</a>, <a href="https://github.com/JeffLin0225/KafkaTopicsService">KafkaTopic</a>
           <br>
           容器化Docker,MiniKube: <a href="https://github.com/JeffLin0225/K8sYamlFile">K8sYamlFile</a>
           <br>
