@@ -50,9 +50,7 @@
       <td style="border: 1px solid black;">
           RedisDemo：<a href="https://github.com/JeffLin0225/redisdemo">redisdemo</a> 
           <br>
-          KafkaService：<a href="https://github.com/JeffLin0225/KafkaService">KafkaService</a> 
-          <br>
-          KafkaTopics多微服務: <a href="https://github.com/JeffLin0225/KafkaTopicsService">KafkaTopicsService</a>
+          KafkaService：<a href="https://github.com/JeffLin0225/KafkaService">KafkaService</a> <a href="https://github.com/JeffLin0225/KafkaTopicsService">KafkaTopicsService</a>
           <br>
           容器化Docker,MiniKube: <a href="https://github.com/JeffLin0225/K8sYamlFile">K8sYamlFile</a>
           <br>
@@ -60,7 +58,7 @@
           <br>
           加/解密工具：<a href="https://github.com/JeffLin0225/EnDeCoder/blob/main/main.py">EnDeCoder</a>
       </td>
-      <td style="border: 1px solid black;">React <br> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
+      <td style="border: 1px solid black;"> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
   </tr>
 </table>
     
