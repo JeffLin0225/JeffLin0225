@@ -57,6 +57,8 @@
           容器化Docker,MiniKube: <a href="https://github.com/JeffLin0225/K8sYamlFile">K8sYamlFile</a>
           <br>
           容器化啟動指令集：<a href="https://github.com/JeffLin0225/Kubernates_Docker_ReadMe">Kubernates_Docker</a>
+          <br>
+          加/解密工具：<a href="https://github.com/JeffLin0225/EnDeCoder/blob/main/main.py">EnDeCoder</a>
       </td>
       <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br> OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
   </tr>
