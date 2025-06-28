@@ -84,8 +84,16 @@
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="javascript logo"  />
   <img width="18" />AWS
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="typescript logo"  />
-  <img width="18" />|| <img width="18" /> (Cloud) : 
+  <img width="18" />Cloudflare
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+</div>
+<h2 align="left">DevOps & CI/CD </h2>
+<div align="left">AzureDevOps
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="18" />Gitlab
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="18" />Jenkins
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
 </div>
 <h2 align="left">前端 Frontend </h2>
 <div align="left">JavaScript
@@ -161,14 +169,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> 
 </div>
 
-<h2 align="left">DevOps & CI/CD & 工具 Tools</h2>
-<div align="left">AzureDevOps
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="18" />Gitlab
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="18" />Jenkins
-  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
-  <img width="18" />|| <img width="18" /> (Tools) : VSCode
+<h2 align="left">工具 Tools</h2>
+<div align="left">VSCode
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="18" />VisualStudio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
