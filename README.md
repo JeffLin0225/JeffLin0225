@@ -79,9 +79,15 @@
       <td style="border: 1px solid black;"> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
   </tr>
 </table>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
-
-<h2 align="left">前端技術 Frontend Technologies</h2>
+<h2 align="left">雲端 Cloud </h2>
+<div align="left">GCP
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="javascript logo"  />
+  <img width="18" />AWS
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="typescript logo"  />
+  <img width="18" />|| <img width="18" /> (Cloud) : 
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+</div>
+<h2 align="left">前端 Frontend </h2>
 <div align="left">JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="18" />TypeScript
@@ -94,7 +100,7 @@
 </div>
 
 ###
-<h2 align="left">後端技術 Backend Technologies</h2>
+<h2 align="left">後端 Backend </h2>
 <div align="left">
   JAVA
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -109,16 +115,6 @@
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="18" />Flask
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
-</div>
-
-###
-<h2 align="left">AI模型＆深度學習 AI Models & Deep Learning</h2>
-<div align="left"> Anaconda 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" /> 
-  <img width="18" /> PyTorch 
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" /> 
-  <img width="18" /> TensorFlow 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> 
 </div>
 
 ###
@@ -153,8 +149,16 @@
   <br>
   (Service) : <img width="18" />Kafka
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
-  <img width="18" />|| <img width="18" /> (Cloud) : 
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+</div>
+
+###
+<h2 align="left">AI模型＆深度學習 AI Models & Deep Learning</h2>
+<div align="left"> Anaconda 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" /> 
+  <img width="18" /> PyTorch 
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" /> 
+  <img width="18" /> TensorFlow 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" /> 
 </div>
 
 <h2 align="left">DevOps & CI/CD & 工具 Tools</h2>
