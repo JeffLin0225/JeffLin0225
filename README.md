@@ -91,7 +91,8 @@
   <img width="18" />REACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-
+> [!NOTE]
+> 這是 Note
 ###
 <h2 align="left">後端技術 Backend Technologies</h2>
 <div align="left">
