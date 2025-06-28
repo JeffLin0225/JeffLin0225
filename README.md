@@ -160,7 +160,7 @@
 </div>
 
 ###
-<h2 align="left">AI模型＆深度學習 AI Models & Deep Learning</h2>
+<h2 align="left">(小研究)AI模型＆深度學習 AI Models & Deep Learning</h2>
 <div align="left"> Anaconda 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" /> 
   <img width="18" /> PyTorch 
