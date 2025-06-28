@@ -79,7 +79,8 @@
       <td style="border: 1px solid black;"> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
   </tr>
 </table>
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+
 <h2 align="left">前端技術 Frontend Technologies</h2>
 <div align="left">JavaScript
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -91,8 +92,7 @@
   <img width="18" />REACT
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
-> [!NOTE]
-> 這是 Note
+
 ###
 <h2 align="left">後端技術 Backend Technologies</h2>
 <div align="left">
