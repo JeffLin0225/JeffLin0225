@@ -1,6 +1,6 @@
 <h1 align="left">Hey 你好！！！ 👋 </h1>
-<p align="left">我叫林家賢，我是一名熱愛開發與分享的程式設計師，目前在金融業擔任全端工程師</p>
-<p align="left">My name is Lin Jiaxian. I am a programmer who loves development and sharing. I am currently working as a full-stack engineer in the financial industry.</p>
+<p align="left">我叫林家賢，我是一名熱愛開發與分享的程式設計師，目前是全端工程師</p>
+<p align="left">My name is Lin Jiaxian. I am a programmer who loves development and sharing. I am currently as a full-stack engineer.</p>
 
 <h2 align="left">關於我 About me</h2>
 <p align="left">
@@ -8,7 +8,7 @@
     串接整合服務
 <br>
 📚  興趣： 
-    嘗試不同領域技術 ( 前後端, DevOps , 容器化技術 , AI領域相關 ) 
+    嘗試不同領域技術 ( 前後端, 雲端 , DevOps , 容器化技術 , AI領域相關 ) 
 <h2 align="left"></h2>
 <p align="left">
 ✨  以下是我的一些作品 (不定時更新中... 網頁服務因營運成本因素目前不會運行服務在網頁中)
