@@ -79,6 +79,8 @@
           前端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Frontend">JAXI_ChatBot_Frontend</a> 
           <br>
           後端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend">JAXI_ChatBot_Backend</a> 
+          <br>
+          精進：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend_PLUS">JAXI_ChatBot_Backend_PLUS</a> 
       </td>
       <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br> OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
   </tr>
