@@ -16,17 +16,17 @@
 ✨  Now 營運在雲端中.....(雲端好貴)
 <table>
     <tr>
-      <td style="border: 1px solid black;">主題（資產管理系統）</td>
-      <td style="border: 1px solid black;">連結</td>
-      <td style="border: 1px solid black;">說明</td>
+      <td style="border: 1px solid black;">主題</td>
+      <td style="border: 1px solid black;">程式</td>
+      <td style="border: 1px solid black;">服務</td>
     </tr>
     <tr>
       <td style="border: 1px solid black;">資產管理系統</td>
       <td style="border: 1px solid black;">
-          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">TelegramBot</a> 
+          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">TelegramBot</a> <br>
           (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">decoder</a> 
       </td>
-      <td style="border: 1px solid black;">✨ GCP -> Mongo Altis(Cloud) -> Telegramm Server</td>
+      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi , Redis , MongoDB</td>
     </tr>
     <tr>
       <td style="border: 1px solid black;">資產管理(後端)</td>
@@ -36,6 +36,7 @@
       <td style="border: 1px solid black;">Spring boot 共用Maven套件 in GitHub</td>
     </tr>
 </table>    
+<hr>
 <p align="left">
 ✨  Used to 營運在雲端中.....(雲端好貴)
 <table>
