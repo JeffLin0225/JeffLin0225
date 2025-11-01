@@ -27,9 +27,9 @@
           (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">Asset_Management_frontend</a> <br>
           (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">Asset_Management_backend</a> 
       </td>
-      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi , Redis , Mongo Altis(Cloud)</td>
+      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi ,<br> Redis , Mongo Altis(Cloud)</td>
       <td style="border: 1px solid black;">
-          架構說明：前端->後端->Redis->MongoDB
+          架構說明：<br>前端->後端->Redis->MongoDB
       </td>
     </tr>
 </table>    
