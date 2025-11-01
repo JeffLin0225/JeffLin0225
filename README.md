@@ -13,30 +13,31 @@
 <p align="left">
 ✨  以下是我的一些作品 (不定時更新中... 有些網頁服務因營運成本因素目前不會運行服務在網頁中)
 <p align="left">
-✨  營運在雲端中.....(雲端好貴)
+✨  Now 營運在雲端中.....(雲端好貴)
 <table>
     <tr>
-      <td style="border: 1px solid black;">主題</td>
+      <td style="border: 1px solid black;">主題（資產管理系統）</td>
       <td style="border: 1px solid black;">連結</td>
       <td style="border: 1px solid black;">說明</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;">Telegram通知機器人</td>
+      <td style="border: 1px solid black;">資產管理系統</td>
       <td style="border: 1px solid black;">
-          AP程式碼：<a href="https://github.com/JeffLin0225/TelegramBot">TelegramBot</a> 
+          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">TelegramBot</a> 
+          (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">decoder</a> 
       </td>
       <td style="border: 1px solid black;">✨ GCP -> Mongo Altis(Cloud) -> Telegramm Server</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;">小工具(Github Library)</td>
+      <td style="border: 1px solid black;">資產管理(後端)</td>
       <td style="border: 1px solid black;">
-          資料庫解密套件：<a href="https://github.com/JeffLin0225/decoder">decoder</a> 
+          資料庫解密套件：<a href="https://github.com/JeffLin0225/Asset_Management_backend">decoder</a> 
       </td>
       <td style="border: 1px solid black;">Spring boot 共用Maven套件 in GitHub</td>
     </tr>
 </table>    
 <p align="left">
-✨  營運在雲端中.....(雲端好貴)
+✨  Used to 營運在雲端中.....(雲端好貴)
 <table>
     <tr>
       <td style="border: 1px solid black;">主題</td>
