@@ -38,7 +38,7 @@
 <table>
     <tr>
       <td style="border: 1px solid black;">主題</td>
-      <td style="border: 1px solid black;">連結</td>
+      <td style="border: 1px solid black;">程式</td>
       <td style="border: 1px solid black;">說明</td>
     </tr>
     <tr>
@@ -61,7 +61,7 @@
 <table>
   <tr>
       <td style="border: 1px solid black;">主題</td>
-      <td style="border: 1px solid black;">連結</td>
+      <td style="border: 1px solid black;">程式</td>
       <td style="border: 1px solid black;">說明</td>
   </tr>
   <tr>
