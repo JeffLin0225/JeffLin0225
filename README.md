@@ -23,20 +23,17 @@
     <tr>
       <td style="border: 1px solid black;">資產管理系統</td>
       <td style="border: 1px solid black;">
-          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">TelegramBot</a> <br>
-          (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">decoder</a> 
+          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">Asset_Management_frontend</a> <br>
+          (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">Asset_Management_backend</a> 
       </td>
-      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi , Redis , MongoDB</td>
+      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi , Redis , Mongo Altis(Cloud)</td>
     </tr>
     <tr>
-      <td style="border: 1px solid black;">資產管理(後端)</td>
       <td style="border: 1px solid black;">
-          資料庫解密套件：<a href="https://github.com/JeffLin0225/Asset_Management_backend">decoder</a> 
+          架構說明：前端->後端->Redis->MongoDB
       </td>
-      <td style="border: 1px solid black;">Spring boot 共用Maven套件 in GitHub</td>
     </tr>
 </table>    
-<hr>
 <p align="left">
 ✨  Used to 營運在雲端中.....(雲端好貴)
 <table>
