@@ -19,6 +19,7 @@
       <td style="border: 1px solid black;">主題</td>
       <td style="border: 1px solid black;">程式</td>
       <td style="border: 1px solid black;">服務</td>
+      <td style="border: 1px solid black;">架構說明</td>
     </tr>
     <tr>
       <td style="border: 1px solid black;">資產管理系統</td>
@@ -27,8 +28,6 @@
           (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">Asset_Management_backend</a> 
       </td>
       <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi , Redis , Mongo Altis(Cloud)</td>
-    </tr>
-    <tr>
       <td style="border: 1px solid black;">
           架構說明：前端->後端->Redis->MongoDB
       </td>
