@@ -1,4 +1,4 @@
-ㄌ<h1 align="left">Hey 你好！！！ 👋 </h1>
+<h1 align="left">Hey 你好！！！ 👋 </h1>
 <p align="left">我叫林家賢，我是一名熱愛開發與分享的程式設計師，現職全端工程師</p>
 <p align="left">My name is Lin JiaXian. I am a programmer who loves development and documentation, and I am currently a full‑stack engineer.</p>
 
