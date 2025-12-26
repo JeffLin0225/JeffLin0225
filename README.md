@@ -1,24 +1,31 @@
-<h1 align="left">Hey 你好！！！ 👋 </h1>
-<p align="left">我叫林家賢，我是一名熱愛開發與分享的程式設計師，現職全端工程師</p>
-<p align="left">My name is Lin JiaXian. I am a programmer who loves development and documentation, and I am currently a full‑stack engineer.</p>
+# Hi, I'm Jeff Lin (林家賢) 👋
 
-<h2 align="left">關於我 About me</h2>
-<p align="left">
-✨  擅長：
-    串接整合服務
-<br>
-📚  興趣： 
-    嘗試不同領域技術 ( 前後端 , 系統設計 , 雲端 , DevOps , 容器化技術 , AI領域相關 ) 
-<h2 align="left"></h2>
-<p align="left">
-✨  以下是我的一些作品 (不定時更新中... 有些網頁服務因營運成本因素目前不會運行服務在網頁中)
-<p align="left">
-✨  Now 營運在雲端中.....(雲端好貴)
+> **Full-Stack Engineer | DevOps Enthusiast | AI Explorer**
+> *一名熱愛開發與分享的軟體工程師，致力於整合前後端、DevOps、雲端架構與 AI 技術。*
+
+
+### 👨‍💻 關於我 (About Me)
+
+隨著開發經驗累積，我持續探索不同領域的技術解決方案。
+- ✨ **擅長領域**：系統串接整合、全端開發、微服務架構、系統設計
+- 📚 **興趣研究**：AI 應用 (RAG/LLM)、容器化技術 (Kubernetes/Docker)、語言＆開源軟體實踐
+
+---
+## 作品集 (Side Project)
+```
+以下是一些作品 (不定時更新中... 有些服務因營運成本因素目前不會運行服務在網頁中)
+```
+| 專案名稱     | 程式碼 & 技術架構	 | 專案亮點 |
+|:-------------|:-------|:---------|
+|**AssetManagement** 資產管理系統 <br>*(Application)* |![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Fastapi](https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white) ![Mongodb](https://img.shields.io/badge/-Mongodb-47A248?style=flat&logo=mongodb&logoColor=white) <br>[Asset_Management_frontend前端](https://github.com/JeffLin0225/Asset_Management_frontend)｜[Asset_Management_backend後端](https://github.com/JeffLin0225/Asset_Management_backend) | • 🟢 **Online 在雲端中.....**(雲端好貴) <br>• **效能優化**：Redis 快取層 , 訂閱過期事件 <br> • **雲端資料**：MongoDB Atlas 整合 |
+|**Serverless Autoscaler** 無伺服器自動擴縮容 <br>*(DevOps)* | ![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+     
+
 <table>
     <tr>
       <td style="border: 1px solid black;">主題</td>
       <td style="border: 1px solid black;">程式</td>
-      <td style="border: 1px solid black;">服務</td>
       <td style="border: 1px solid black;">架構說明</td>
     </tr>
     <tr>
@@ -27,14 +34,16 @@
           (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">Asset_Management_frontend</a> <br>
           (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">Asset_Management_backend</a> 
       </td>
-      <td style="border: 1px solid black;">✨ Vue3+Vite , FastApi ,<br> Redis , Mongo Altis(Cloud)</td>
       <td style="border: 1px solid black;">
+      Vue3+Vite , FastApi ,Redis , Mongo Altis(Cloud)
+      ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
           架構說明：<br>前端->後端->Redis->MongoDB
       </td>
     </tr>
 </table>    
-<p align="left">
-✨  Used to 營運在雲端中.....(雲端好貴)
+
+⚫ Offline 曾經在雲端中.....(雲端好貴)
 <table>
     <tr>
       <td style="border: 1px solid black;">主題</td>
@@ -56,8 +65,11 @@
       <td style="border: 1px solid black;">Spring boot 共用Maven套件 in GitHub</td>
     </tr>
 </table>    
-<p align="left">
-✨  (網頁服務因 [營運成本因素] 目前不會運行服務在網頁中)
+
+```'
+(目前不會運行服務在網頁)
+```
+
 <table>
   <tr>
       <td style="border: 1px solid black;">主題</td>
@@ -82,7 +94,7 @@
           <br>
           精進：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend_PLUS">JAXI_ChatBot_Backend_PLUS</a> 
       </td>
-      <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br> OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
+      <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br>OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
   </tr>
   <tr>
       <td style="border: 1px solid black;">後台管理系統</td>
