@@ -11,7 +11,8 @@
 
 ---
 ## 作品集 (Side Project)
-[![Install](https://img.shields.io/badge/一.-熱點作品-green?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
+
+![Install](https://img.shields.io/badge/一.-熱點作品-green?style=for-the-badge)
 
 
 | 專案名稱     | 程式碼 & 技術架構	 | 專案亮點 |
@@ -20,7 +21,7 @@
 |**Serverless_Autoscaler**<br> **無伺服器自動擴縮容** <br>*(DevOps)* | ![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) <br> [Serverless_Autoscaler](https://github.com/JeffLin0225/Kubernetes-KEDA) |• **KEDA事件驅動**：擺脫 CPU/Mem 限制<br>• **精準擴縮**：基於 Kafka Consumer Lag<br>• **Serverless**：支援縮容至零 (Scale-to-Zero) |
 |**AI_聊天機器人(JAXI)**<br>*(Application)*|![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Fastapi](https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)<br>[JAXI_ChatBot_Frontend](https://github.com/JeffLin0225/JAXI_ChatBot_Frontend)<br>[JAXI_ChatBot_Backend](https://github.com/JeffLin0225/JAXI_ChatBot_Backend)<br>---------------------------------<br>[JAXI_ChatBot_Backend_精進](https://github.com/JeffLin0225/JAXI_ChatBot_Backend_PLUS) |• **Ollama**：交互LLM<br>• **OCR**：辨識圖片文字<br>• **BLIP**：辨識圖片<br>--------------------------<br>• **RAG**：檢索增強生成<br>• **StableDiffusion**：生成圖片<br>  **串接Google Search API**|
 
-[![Install](https://img.shields.io/badge/二.-精選作品-blue?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
+![Install](https://img.shields.io/badge/二.-精選作品-blue?style=for-the-badge)
 
 | 專案名稱     | 程式碼 & 技術架構	 | 專案亮點 |
 |:-------------|:-------|:---------|
@@ -28,8 +29,7 @@
 |**JXWebs 部落格**<br>*(Application)* |![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white) ![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)<br> [JXWebs-Frontend](https://github.com/JeffLin0225/JXWebs-Frontend)<br>[JXWebs-Backend](https://github.com/JeffLin0225/JXWebs-Backend)|• **Spring Webflux**：響應式操作<br>• **Spring Gateway**：流量控管<br>• **Spring Security**：權限控管 <br>• **Redis**：快取資料|
 |**服飾後台管理系統**<br>*(Application)*|![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)<br> [CLOTH_frontend](https://github.com/JeffLin0225/CLOTH_Front_End)<br>[CLOTH_backend](https://github.com/JeffLin0225/CLOTH-Rear_End) |• **Spring Security**：權限控管 |
 
-[![Install](https://img.shields.io/badge/三.-小工具-orange?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
-
+![Install](https://img.shields.io/badge/三.-小工具-orange?style=for-the-badge)
 
 | 專案名稱 | 程式碼 & 技術架構	 | 專案亮點 |
 |:-------------|:-------|:---------|
