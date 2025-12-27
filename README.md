@@ -1,126 +1,45 @@
-# Hi, I'm Jeff Lin (林家賢) 👋
+# Hi, I'm Jeff Lin (林家賢)
 
 > **Full-Stack Engineer | DevOps Enthusiast | AI Explorer**
 > *一名熱愛開發與分享的軟體工程師，致力於整合前後端、DevOps、雲端架構與 AI 技術。*
 
 
 ### 👨‍💻 關於我 (About Me)
-
 隨著開發經驗累積，我持續探索不同領域的技術解決方案。
-- ✨ **擅長領域**：系統串接整合、全端開發、微服務架構、系統設計
+- ✨**擅長領域**：系統串接整合、全端開發、微服務架構、系統設計
 - 📚 **興趣研究**：AI 應用 (RAG/LLM)、容器化技術 (Kubernetes/Docker)、語言＆開源軟體實踐
 
 ---
 ## 作品集 (Side Project)
-```
-以下是一些作品 (不定時更新中... 有些服務因營運成本因素目前不會運行服務在網頁中)
-```
+[![Install](https://img.shields.io/badge/一.-熱點作品-green?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
+
+
 | 專案名稱     | 程式碼 & 技術架構	 | 專案亮點 |
 |:-------------|:-------|:---------|
-|**AssetManagement** 資產管理系統 <br>*(Application)* |![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Fastapi](https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white) ![Mongodb](https://img.shields.io/badge/-Mongodb-47A248?style=flat&logo=mongodb&logoColor=white) <br>[Asset_Management_frontend前端](https://github.com/JeffLin0225/Asset_Management_frontend)｜[Asset_Management_backend後端](https://github.com/JeffLin0225/Asset_Management_backend) | • 🟢 **Online 在雲端中.....**(雲端好貴) <br>• **效能優化**：Redis 快取層 , 訂閱過期事件 <br> • **雲端資料**：MongoDB Atlas 整合 |
-|**Serverless Autoscaler** 無伺服器自動擴縮容 <br>*(DevOps)* | ![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+|**AssetManagement**<br>**資產管理系統** <br>*(Application)* |![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Fastapi](https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white) ![Mongodb](https://img.shields.io/badge/-Mongodb-47A248?style=flat&logo=mongodb&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![Googlecloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)<br>[Asset_Management_frontend](https://github.com/JeffLin0225/Asset_Management_frontend)<br>[Asset_Management_backend](https://github.com/JeffLin0225/Asset_Management_backend) | • 🟢 **Online 在雲端中.....**(雲端好貴) <br>• **效能優化**：Redis 快取層 , 訂閱過期事件 <br> • **雲端資料**：MongoDB Atlas 整合 |
+|**Serverless_Autoscaler**<br> **無伺服器自動擴縮容** <br>*(DevOps)* | ![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) <br> [Serverless_Autoscaler](https://github.com/JeffLin0225/Kubernetes-KEDA) |• **KEDA事件驅動**：擺脫 CPU/Mem 限制<br>• **精準擴縮**：基於 Kafka Consumer Lag<br>• **Serverless**：支援縮容至零 (Scale-to-Zero) |
+|**AI_聊天機器人(JAXI)**<br>*(Application)*|![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Fastapi](https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)<br>[JAXI_ChatBot_Frontend](https://github.com/JeffLin0225/JAXI_ChatBot_Frontend)<br>[JAXI_ChatBot_Backend](https://github.com/JeffLin0225/JAXI_ChatBot_Backend)<br>---------------------------------<br>[JAXI_ChatBot_Backend_精進](https://github.com/JeffLin0225/JAXI_ChatBot_Backend_PLUS) |• **Ollama**：交互LLM<br>• **OCR**：辨識圖片文字<br>• **BLIP**：辨識圖片<br>--------------------------<br>• **RAG**：檢索增強生成<br>• **StableDiffusion**：生成圖片<br>  **串接Google Search API**|
 
-     
+[![Install](https://img.shields.io/badge/二.-精選作品-blue?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
 
-<table>
-    <tr>
-      <td style="border: 1px solid black;">主題</td>
-      <td style="border: 1px solid black;">程式</td>
-      <td style="border: 1px solid black;">架構說明</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">資產管理系統</td>
-      <td style="border: 1px solid black;">
-          (前端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_frontend">Asset_Management_frontend</a> <br>
-          (後端)程式碼：<a href="https://github.com/JeffLin0225/Asset_Management_backend">Asset_Management_backend</a> 
-      </td>
-      <td style="border: 1px solid black;">
-      Vue3+Vite , FastApi ,Redis , Mongo Altis(Cloud)
-      ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+| 專案名稱     | 程式碼 & 技術架構	 | 專案亮點 |
+|:-------------|:-------|:---------|
+|**Telegram通知機器人**<br>*(Application)*|![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Googlecloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Mongodb](https://img.shields.io/badge/-Mongodb-47A248?style=flat&logo=mongodb&logoColor=white)<br>[TelegramBot](https://github.com/JeffLin0225/TelegramBot)|• **雲端**：GCP , Mongo Altis<br>**Telegram Server** -> Moblie|
+|**JXWebs 部落格**<br>*(Application)* |![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white) ![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)<br> [JXWebs-Frontend](https://github.com/JeffLin0225/JXWebs-Frontend)<br>[JXWebs-Backend](https://github.com/JeffLin0225/JXWebs-Backend)|• **Spring Webflux**：響應式操作<br>• **Spring Gateway**：流量控管<br>• **Spring Security**：權限控管 <br>• **Redis**：快取資料|
+|**服飾後台管理系統**<br>*(Application)*|![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Vite](https://img.shields.io/badge/-Vite-7360F2?style=flat&logo=vite&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)<br> [CLOTH_frontend](https://github.com/JeffLin0225/CLOTH_Front_End)<br>[CLOTH_backend](https://github.com/JeffLin0225/CLOTH-Rear_End) |• **Spring Security**：權限控管 |
 
-          架構說明：<br>前端->後端->Redis->MongoDB
-      </td>
-    </tr>
-</table>    
+[![Install](https://img.shields.io/badge/三.-小工具-orange?style=for-the-badge)](https://github.com/JeffLin0225/Kubernetes-Project/blob/main/Installation.md)
 
-⚫ Offline 曾經在雲端中.....(雲端好貴)
-<table>
-    <tr>
-      <td style="border: 1px solid black;">主題</td>
-      <td style="border: 1px solid black;">程式</td>
-      <td style="border: 1px solid black;">說明</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">Telegram通知機器人</td>
-      <td style="border: 1px solid black;">
-          AP程式碼：<a href="https://github.com/JeffLin0225/TelegramBot">TelegramBot</a> 
-      </td>
-      <td style="border: 1px solid black;">✨ GCP -> Mongo Altis(Cloud) -> Telegramm Server</td>
-    </tr>
-    <tr>
-      <td style="border: 1px solid black;">小工具(Github Library)</td>
-      <td style="border: 1px solid black;">
-          資料庫解密套件：<a href="https://github.com/JeffLin0225/decoder">decoder</a> 
-      </td>
-      <td style="border: 1px solid black;">Spring boot 共用Maven套件 in GitHub</td>
-    </tr>
-</table>    
 
-```'
-(目前不會運行服務在網頁)
-```
+| 專案名稱 | 程式碼 & 技術架構	 | 專案亮點 |
+|:-------------|:-------|:---------|
+|**MiniKube**<br>*(DevOps)*|![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)<br>[容器MiniKube](https://github.com/JeffLin0225/K8sYamlFile) [監控啟動指令集](https://github.com/JeffLin0225/Kubernates_Docker_ReadMe)|• MiniKube 實作單節點 Kubernetes|
+|**.Net 框架實作**<br>*(Application)*|![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)<br>[.Net_KafkaService](https://github.com/JeffLin0225/DemoDotnet)|• Kafka 訊息拋送(精進)|
+|**Redis 實作**<br>*(Application)*|![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white)<br>[RedisDemo](https://github.com/JeffLin0225/redisdemo)|• Redis 緩存加速網頁響應|
+|**加/解密工具**<br>*(Tool)*|![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)<br>[EnDeCoder](https://github.com/JeffLin0225/EnDeCoder/blob/main/main.py)|• 加解密小工具 加密機敏字串|
+|**共用解密資料庫套件**<br>*(Library)*|![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![Postgresql](https://img.shields.io/badge/-Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)<br>[Decoder](https://github.com/JeffLin0225/decoder)|• 共用解密資料庫 (Maven套件) Publish in GitHub |
 
-<table>
-  <tr>
-      <td style="border: 1px solid black;">主題</td>
-      <td style="border: 1px solid black;">程式</td>
-      <td style="border: 1px solid black;">說明</td>
-  </tr>
-  <tr>
-      <td style="border: 1px solid black;">JXWebs 部落格</td>
-      <td style="border: 1px solid black;">
-          前端：<a href="https://github.com/JeffLin0225/JXWebs-Frontend">JXWebs-Frontend</a> 
-          <br>
-          後端：<a href="https://github.com/JeffLin0225/JXWebs-Backend">JXWebs-Backend</a> 
-      </td>
-      <td style="border: 1px solid black;">React <br>(Spring) Webflux併發操作 ,Cloud流量控管 , Security權限控管 <br> Redis提升性能 , PostgreSQL關聯式</td>
-  </tr>
-  <tr>
-      <td style="border: 1px solid black;">AI_聊天機器人 (JAXI)</td>
-      <td style="border: 1px solid black;">
-          前端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Frontend">JAXI_ChatBot_Frontend</a> 
-          <br>
-          後端：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend">JAXI_ChatBot_Backend</a> 
-          <br>
-          精進：<a href="https://github.com/JeffLin0225/JAXI_ChatBot_Backend_PLUS">JAXI_ChatBot_Backend_PLUS</a> 
-      </td>
-      <td style="border: 1px solid black;">React <br> Ollama 交互LLM  <br>OCR辨識圖片文字 , BLIP辨識圖片 , 串接Google Search API</td>
-  </tr>
-  <tr>
-      <td style="border: 1px solid black;">後台管理系統</td>
-      <td style="border: 1px solid black;">
-          前端：<a href="https://github.com/JeffLin0225/CLOTH_Front_End">CLOTH_Front_End</a> 
-          <br>
-          後端：<a href="https://github.com/JeffLin0225/CLOTH-Rear_End">CLOTH-Rear_End</a> 
-      </td>
-      <td style="border: 1px solid black;">VUE <br> Spring Boot , Spring Security權限控管 <br> SQL Server關聯式</td>
-  </tr>
-  <tr>
-      <td style="border: 1px solid black;">小Demo</td>
-      <td style="border: 1px solid black;">
-          RedisDemo：<a href="https://github.com/JeffLin0225/redisdemo">redisdemo</a> 
-          <br>
-          KafkaService:<a href="https://github.com/JeffLin0225/KafkaService">KafkaService</a>, <a href="https://github.com/JeffLin0225/KafkaTopicsService">KafkaTopic</a>
-          <br>
-          容器化Docker,MiniKube: <a href="https://github.com/JeffLin0225/K8sYamlFile">K8sYamlFile</a>
-          <br>
-          容器化啟動指令集：<a href="https://github.com/JeffLin0225/Kubernates_Docker_ReadMe">Kubernates_Docker</a>
-          <br>
-          加/解密工具：<a href="https://github.com/JeffLin0225/EnDeCoder/blob/main/main.py">EnDeCoder</a>
-      </td>
-      <td style="border: 1px solid black;"> Redis 緩存加速網頁響應  <br> kafka 訊息串流 <br> MiniKube 實作 K8s 容器化相關 <br> 加解密小工具 加密機敏字串 <br> </td>
-  </tr>
-</table>
+---
 <h2 align="left">雲端 Cloud </h2>
 <div align="left">GCP
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="javascript logo"  />
