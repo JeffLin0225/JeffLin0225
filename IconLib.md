@@ -9,6 +9,7 @@
 ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=openjdk&logoColor=white)
 ![dotnet](https://img.shields.io/badge/.Net-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) 
 
 - 框架
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -27,6 +28,11 @@
 ![Redis](https://img.shields.io/badge/-Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-FFFFFF?style=flat&logo=ollama&logoColor=black)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+- CICD
+![github](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white) 
+![Githubactions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) 
 
 - 監控
 ![prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
